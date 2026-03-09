@@ -131,7 +131,7 @@ Evaluate rule quality
 ↓
 Update optimization model
 ↓
-Search for better parameters
+Search better parameters
 ```
 
 The best parameters discovered are then used for the final rule mining stage.
